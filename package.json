@@ -6,7 +6,6 @@
   "module": "./dist/yjs.mjs",
   "unpkg": "./dist/yjs.mjs",
   "types": "./dist/src/index.d.ts",
-  "sideEffects": false,
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/dmonad"
